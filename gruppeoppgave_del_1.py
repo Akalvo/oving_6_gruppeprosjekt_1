@@ -16,6 +16,4 @@ tidspunkt = datetime.datetime()
 for linje in temperatur_trykk_met_samme_rune_time_datasett:
     linje = list()
     linje.append[0]
-print(linje)
-
-
+print(linje) 
